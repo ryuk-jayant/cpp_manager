@@ -1,0 +1,23 @@
+{   "quantity":4,
+    "product1" : {
+        "price":100,
+        "stock":200,
+        "prodname":"jhadu"
+    },
+    "product2" : {
+        "price":100,
+        "stock":300,
+        "prodname":"detergent"
+    },
+    "product3" : {
+        "price":100,
+        "stock":4900,
+        "prodname":"bourvita"
+    },
+    "product4" : {
+        "price":100,
+        "stock":40320,
+        "prodname":"glasses"
+    }
+}
+ 
